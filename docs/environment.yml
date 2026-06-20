@@ -16,3 +16,4 @@ dependencies:
   # The following is needed to fix RTD.
   - conda
   - gxx_linux-64
+  - pyopencl
